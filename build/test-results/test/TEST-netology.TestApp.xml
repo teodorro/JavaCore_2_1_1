@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="netology.TestApp" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-07-29T21:32:31" hostname="DESKTOP-455BIGU" time="0.145">
+  <properties/>
+  <testcase name="test_MapStringString()" classname="netology.TestApp" time="0.03"/>
+  <testcase name="test_ConvertEmployeesToJsonTwoElements()" classname="netology.TestApp" time="0.047"/>
+  <testcase name="test_MapIntString()" classname="netology.TestApp" time="0.001"/>
+  <testcase name="test_MapLongString()" classname="netology.TestApp" time="0.001"/>
+  <testcase name="test_ConvertEmployeesToJsonNotEmpty()" classname="netology.TestApp" time="0.004"/>
+  <testcase name="test_GetNotEmptyListOfEmployeesFromXmlFile()" classname="netology.TestApp" time="0.055"/>
+  <testcase name="test_SaveJson()" classname="netology.TestApp" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
